@@ -26,7 +26,7 @@ font-size: 32px;
 }
 .button1:hover {
   background-color: #008000;
-  color: black;
+  color: green;
 }
 .button2 {
   background-color: #F0FFFF; /* white */
@@ -41,5 +41,5 @@ font-size: 32px;
 }
 .button2:hover {
   background-color: #FF0000;
-  color: black;
+  color: red;
 }
