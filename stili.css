@@ -48,4 +48,7 @@ html {
 }
 body {
   min-height: 75%;
+  margin-left 75%;
+  border-style: solid;
+  border-radius: 30px;
 }
