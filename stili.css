@@ -12,6 +12,8 @@ font-size: 32px;
   background-color: lightblue;
   padding: 10px 10px 10px 10px;
   margin: 50px 20px 50px 20px;
+  margin: 75%;
+  margin-left: 75%;
 }
 .button1 {
   background-color: #F0FFFF; /* white */
@@ -48,7 +50,7 @@ html {
 }
 body {
   min-height: 75%;
-  margin-left 75%;
   border-style: solid;
   border-radius: 30px;
 }
+
