@@ -7,20 +7,20 @@ font-family: 'Courier New', Courier, monospace;
 font-size: 32px;
 }
 .arejaKaste {
-  border-style: dotted
-  border-color: blue;
-  background-color: lightblue;
-  padding: 9px 9px 9px 9px;
-  margin: 9px 9px 9px 9px;
+  border: 5px dotted;
+  border-color blue;
+  background-color lightblue;
+  padding: 8px 8px 8px 8px;
+  margin: 8px 8px 8px 8px;
   align-content: left;
   float: center;
   width: 50;
-  height: 35;
+  height: 25;
 }
 .button1 {
   background-color: #F0FFFF; /* white */
   border: none;
-  color: black;
+  color black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -35,7 +35,7 @@ font-size: 32px;
 .button2 {
   background-color: #F0FFFF; /* white */
   border: none;
-  color: black;
+  color black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
