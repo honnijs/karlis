@@ -1,6 +1,6 @@
 .teksts {
 display: flex;
-padding: 16px 32px 8px;
+padding: 12px 16px 8px;
 margin: 8px 12px;
 background-color: #00ffff;
 font-family: 'Courier New', Courier, monospace;
@@ -12,7 +12,7 @@ font-size: 32px;
   background-color: purple;
   padding: 8px 8px 8px 8px;
   margin: 8px 8px 8px 8px;
-  align-content: left;
+  align-content: center;
   float: center;
   width: 50;
   height: 25;
