@@ -45,12 +45,3 @@ font-size: 32px;
   background-color: #FF0000;
  color black;
 }
-html {
-  height: 75%;
-}
-body {
-  min-height: 75%;
-  border-style: solid;
-  border-radius: 30px;
-}
-
