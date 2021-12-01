@@ -10,8 +10,10 @@ font-size: 32px;
   border-style: dotted
   border-color: blue;
   background-color: lightblue;
-  padding: 10px 10px 10px 10px;
-  margin-left: 75%;
+  padding: 9px 9px 9px 9px;
+  margin: 9px 9px 9px 9px;
+  align-content: left;
+  float: center;
 }
 .button1 {
   background-color: #F0FFFF; /* white */
