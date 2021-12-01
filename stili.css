@@ -20,7 +20,7 @@ font-size: 32px;
 .button1 {
   background-color: #F0FFFF; /* white */
   border: none;
-  color black;
+  color: black;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -30,7 +30,7 @@ font-size: 32px;
 }
 .button1:hover {
   background-color: #008000;
-  color black;
+  color: black;
 }
 .button2 {
   background-color: #F0FFFF; /* white */
