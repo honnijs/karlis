@@ -13,9 +13,9 @@ font-size: 32px;
   padding: 8px 8px 8px 8px;
   margin: 8px 8px 8px 8px;
   align-content: left;
-  float: center;
-  width: 50;
-  height: 25;
+  float: left;
+  width: 50%;
+  height: 25%;
 }
 .button1 {
   background-color: #F0FFFF; /* white */
