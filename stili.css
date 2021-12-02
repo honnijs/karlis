@@ -8,11 +8,11 @@ font-size: 32px;
 }
 .arejaKaste {
   border: 5px dotted;
-  border-color: blue;
-  background-color: purple;
+  border-color: black;
+  background-color: lightblue;
   padding: 8px 8px 8px 8px;
   margin: 8px 8px 8px 8px;
-  align-content: center;
+  align-content: left;
   float: center;
   width: 50;
   height: 25;
