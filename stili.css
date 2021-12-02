@@ -4,7 +4,9 @@ padding: 12px 16px 8px;
 margin: 8px 12px;
 background-color: #ffffff;
 font-family: Helvetica;
-font-size: 18px;
+font-size: 32px;
+align-content: center;
+text-align: center;
 }
 .arejaKaste {
   border: 5px dotted;
