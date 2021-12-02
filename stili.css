@@ -21,7 +21,7 @@ vertical-align: center;
   height: 20%;
   text-align: center;
   font-family: Helvetica;
-  font-size: 16px;
+  font-size: 10px;
 }
 .button1 {
   background-color: #FFFFFF; /* white */
@@ -53,4 +53,7 @@ vertical-align: center;
   background-color: #FF0000;
  color: black;
 }
-
+.h1 {
+font-size: 16px;
+  font-family: Helvetica;
+  
