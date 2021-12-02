@@ -12,13 +12,13 @@ font-size: 18px;
   background-color: gray;
   padding: 8px 8px 8px 8px;
   margin: 8px 8px 8px 8px;
-  align-content: left;
+  align-content: center;
   float: left;
   width: 40%;
   height: 20%;
   text-align: center;
   font-family: Helvetica;
-  font-size: 12px;
+  font-size: 24px;
 }
 .button1 {
   background-color: #FFFFFF; /* white */
