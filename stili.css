@@ -7,6 +7,7 @@ font-family: Helvetica;
 font-size: 32px;
 align-content: center;
 text-align: center;
+float: center;
 }
 .arejaKaste {
   border: 5px dotted;
