@@ -4,18 +4,18 @@ padding: 12px 16px 8px;
 margin: 8px 12px;
 background-color: #fffff;
 font-family: 'Courier New', Courier, monospace;
-font-size: 32px;
+font-size: 24px;
 }
 .arejaKaste {
   border: 5px dotted;
   border-color: black;
-  background-color: lightblue;
+  background-color: gray;
   padding: 8px 8px 8px 8px;
   margin: 8px 8px 8px 8px;
   align-content: left;
   float: left;
-  width: 50%;
-  height: 25%;
+  width: 40%;
+  height: 20%;
 }
 .button1 {
   background-color: #F0FFFF; /* white */
