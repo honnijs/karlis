@@ -62,6 +62,8 @@ vertical-align: center;
   display: inline-block;
   font-size: 16px;
   cursor: pointer;
+  border-radius: 16px;
+  margin: 4px 2px;
 }
 .button2:hover {
   background-color: #FF0000;
